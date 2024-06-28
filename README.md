@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit801&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit801" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, AI, GenAI**
+- 🌱 I’m currently learning **Data Science, Machine Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://storyteller.dorik.io/](https://storyteller.dorik.io/)
 
